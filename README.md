@@ -2,3 +2,7 @@ Hello, my name is Shane Kizito and I am a software programmer with experience in
 
 
 [![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanekizito)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanekizito&count_private=true)
