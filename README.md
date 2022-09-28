@@ -7,4 +7,4 @@ Hello, my name is Shane Kizito and I am a software programmer with experience in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shanekizito)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=shane-kizito&column=2
