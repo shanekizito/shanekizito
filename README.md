@@ -9,7 +9,7 @@ Hello, my name is Shane Kizito and I am a software programmer with experience in
 
 
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 
 
