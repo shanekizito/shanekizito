@@ -4,6 +4,18 @@
 <h3>Hello, my name is Shane Kizito and I am a software programmer with experience in Nodejs, Reactjs, MongoDb, ExpressJs, GraphQl and Python. I have a strong interest in web development and enjoy working on both the front-end and back-end of web applications. In my spare time, I like to learn new programming languages and technologies.</h3>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![Shane Kizito GitHub stats](https://github-readme-stats.vercel.app/api?username=shanekizito&theme=github_dark&show_icons=true)
 
 
@@ -33,6 +45,16 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
+
+
+
+
+
+
+
+
 
 
 
