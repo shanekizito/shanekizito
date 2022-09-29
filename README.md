@@ -22,7 +22,7 @@ Hello, my name is Shane Kizito and I am a software programmer with experience in
 
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hydratedgorilla&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/a7dy63j4tzvatpz863zsfqoy8?si=7bfd7ff2d2e645e5&width=600)
 
 
 
