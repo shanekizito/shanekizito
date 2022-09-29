@@ -19,6 +19,15 @@ Hello, my name is Shane Kizito and I am a software programmer with experience in
 
 
 
+
+
+
+
+
+
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shanekizito&theme=darkhub&margin-w=15&margin-h=15)](https://github.com/shanekizito/github-profile-trophy)
 
 
