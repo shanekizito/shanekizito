@@ -90,9 +90,6 @@
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a7dy63j4tzvatpz863zsfqoy8)
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shanekizito&theme=darkhub&margin-w=15&margin-h=15)](https://github.com/shanekizito/github-profile-trophy)
 
