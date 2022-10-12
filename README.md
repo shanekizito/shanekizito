@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src=https://art.pixilart.com/c64aa970c5ea373.gif>
 
 
-
+[![wakatime](https://wakatime.com/badge/user/3f319a88-cd40-4ee4-a682-2ab18773c6c0.svg)](https://wakatime.com/@3f319a88-cd40-4ee4-a682-2ab18773c6c0)
 
 
 
