@@ -40,7 +40,7 @@
 
 
 
-![Shane Kizito GitHub stats](https://github-readme-stats.vercel.app/api?username=shanekizito&theme=github_dark&show_icons=true)
+[![Shane's's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanekizito)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
