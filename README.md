@@ -25,7 +25,7 @@
 
 
 
-<h3>Hello, my name is Shane Kizito and I am a software programmer with experience in Nodejs, Reactjs, MongoDb, ExpressJs, GraphQl and Python. I have a strong interest in web development and enjoy working on both the front-end and back-end of web applications. In my spare time, I like to learn new programming languages and technologies.</h3>
+<h3> I am an experienced software developer with a passion for building innovative applications. I have a strong background in object-oriented programming and have developed a number of successful applications using Nodejs, Reactjs, MongoDb, ExpressJs, GraphQl and Python . I am also proficient in database design and administration. In addition to my technical skills, I have excellent communication and problem-solving abilities.</h3>
 
 
 
