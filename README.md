@@ -99,10 +99,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shanekizito&theme=darkhub&margin-w=15&margin-h=15)](https://github.com/shanekizito/github-profile-trophy)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0x_Shark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-</p>
 
 
 
