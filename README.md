@@ -26,7 +26,11 @@
 
 
 
-<h3> I am an experienced software developer with a passion for building innovative applications. I have a strong background in object-oriented programming and have developed a number of successful applications using Nodejs, Reactjs, MongoDb, ExpressJs, GraphQl and Python . I am also proficient in database design and administration. In addition to my technical skills, I have excellent communication and problem-solving abilities.</h3>
+<h3> I am an experienced software developer with a strong focus on front-end development using React and React Native. I’m passionate about building intuitive, high-performance applications that deliver seamless user experiences across web and mobile platforms.
+
+My background includes extensive experience in object-oriented programming and full-stack development, with successful projects built using technologies such as Node.js, Express.js, MongoDB, GraphQL, and Python. I'm also well-versed in database design and administration, ensuring robust and scalable backend systems.
+
+Beyond my technical expertise, I bring excellent communication and problem-solving skills, allowing me to collaborate effectively with cross-functional teams and drive projects from concept to deployment.</h3>
 
 
 
