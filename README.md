@@ -6,7 +6,7 @@
 <h3 align="center">Senior Front-End & Full-Stack Software Engineer</h3>
 
 <p align="center">
-Building high-performance web & mobile applications with clean architecture, scalability, and user-first design.
+  I build scalable, high-performance web & mobile applications with clean architecture and user-first design.
 </p>
 
 <p align="center">
@@ -20,54 +20,46 @@ Building high-performance web & mobile applications with clean architecture, sca
 
 ---
 
-<!-- ===================== -->
-<!--  ABOUT ME             -->
-<!-- ===================== -->
-
 ## 👋 About Me
 
 I am an experienced software engineer with a strong focus on **React** and **React Native**, specializing in building **fast, intuitive, and scalable applications** across web and mobile platforms.
 
-My background spans **full-stack development**, with production experience in:
+My background includes **full-stack development** with production experience in:
 
-- **Modern Front-End:** React, React Native, Expo
-- **Back-End & APIs:** Node.js, Express, GraphQL
+- **Front-End:** React, React Native, Expo
+- **Back-End:** Node.js, Express, GraphQL
 - **Databases:** MongoDB, Firebase, Supabase
 - **Languages:** JavaScript, TypeScript, Python
 - **Web3:** Solidity, Web3.js
 
-I value **clean code, thoughtful architecture, and measurable impact**, and I collaborate effectively with designers, founders, and cross-functional teams to ship reliable software from concept to deployment.
+I value **clean code, thoughtful architecture, and real-world impact**, and I collaborate effectively with cross-functional teams to ship reliable software from concept to deployment.
 
 ---
-
-<!-- ===================== -->
-<!--  GITHUB STATS         -->
-<!-- ===================== -->
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanekizito&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=transparent" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shanekizito&show_icons=true&theme=github_dark&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=github_dark&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
-
-<!-- ===================== -->
-<!--  TROPHIES             -->
-<!-- ===================== -->
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanekizito&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=shanekizito&theme=darkhub&no-frame=true&row=1&column=6"
+  />
 </p>
 
 ---
-
-<!-- ===================== -->
-<!--  TECH STACK           -->
-<!-- ===================== -->
 
 ## 🛠️ Tech Stack
 
@@ -94,10 +86,6 @@ I value **clean code, thoughtful architecture, and measurable impact**, and I co
 
 ---
 
-<!-- ===================== -->
-<!--  FOOTER               -->
-<!-- ===================== -->
-
 <p align="center">
-  <i>Open to impactful roles, startups, and ambitious engineering teams.</i>
+  <i>Open to impactful roles, ambitious startups, and high-caliber engineering teams.</i>
 </p>
