@@ -1,61 +1,36 @@
-<!-- ===================== -->
-<!--  PROFILE HEADER       -->
-<!-- ===================== -->
-
 <h1 align="center">Shane Kizito</h1>
 <h3 align="center">Senior Front-End & Full-Stack Software Engineer</h3>
 
 <p align="center">
-  I build scalable, high-performance web & mobile applications with clean architecture and user-first design.
+Building scalable, high-performance web & mobile applications with clean architecture and user-first design.
 </p>
 
 <p align="center">
-  <a href="https://github.com/shanekizito">
-    <img src="https://img.shields.io/github/followers/shanekizito?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/shanekizito?tab=repositories">
-    <img src="https://img.shields.io/github/stars/shanekizito?label=Stars&style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/github/followers/shanekizito?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/shanekizito?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am an experienced software engineer with a strong focus on **React** and **React Native**, specializing in building **fast, intuitive, and scalable applications** across web and mobile platforms.
+I am a software engineer focused on **React** and **React Native**, with strong full-stack experience building production-ready applications across web and mobile platforms.
 
-My background includes **full-stack development** with production experience in:
+**Core strengths**
+- Clean architecture & maintainability
+- Performance-focused UI engineering
+- End-to-end ownership (frontend → backend → deployment)
 
-- **Front-End:** React, React Native, Expo
-- **Back-End:** Node.js, Express, GraphQL
-- **Databases:** MongoDB, Firebase, Supabase
-- **Languages:** JavaScript, TypeScript, Python
-- **Web3:** Solidity, Web3.js
-
-I value **clean code, thoughtful architecture, and real-world impact**, and I collaborate effectively with cross-functional teams to ship reliable software from concept to deployment.
+**Technologies**
+React, React Native, Expo, Node.js, GraphQL, MongoDB, Firebase, Supabase, Python, Solidity, Web3.js
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity & Impact
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shanekizito&show_icons=true&theme=github_dark&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=github_dark&hide_border=true"
-    height="160"
-  />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shanekizito&theme=darkhub&no-frame=true&row=1&column=6"
+    src="https://metrics.lecoq.io/shanekizito?template=classic&languages=1&achievements=1&repositories=1&followup=1&isocalendar=1"
   />
 </p>
 
@@ -74,18 +49,14 @@ I value **clean code, thoughtful architecture, and real-world impact**, and I co
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-### APIs, Cloud & Tooling
+### APIs & Advanced
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
-![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm)
-
-### Web3 & Advanced
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js)
 
 ---
 
 <p align="center">
-  <i>Open to impactful roles, ambitious startups, and high-caliber engineering teams.</i>
+  <i>Open to impactful roles, startups, and technically ambitious teams.</i>
 </p>
