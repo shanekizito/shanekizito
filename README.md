@@ -45,7 +45,7 @@ Beyond my technical expertise, I bring excellent communication and problem-solvi
 
 
 
-[![Shane's's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanekizito)](https://github.com/anuraghazra/github-readme-stats)
+[![Shane's's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanekizito)](https://github.com/shanekizito/github-readme-stats)
 
 
 
@@ -90,7 +90,7 @@ Beyond my technical expertise, I bring excellent communication and problem-solvi
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito)](https://github.com/shanekizito/github-readme-stats)
 
 
 
