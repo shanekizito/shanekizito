@@ -26,38 +26,13 @@ I am an experienced software engineer with a strong focus on **React** and **Rea
 
 My background includes **full-stack development** with production experience in:
 
-- **Front-End:** React, React Native, Expo
-- **Back-End:** Node.js, Express, GraphQL
-- **Databases:** MongoDB, Firebase, Supabase
-- **Languages:** JavaScript, TypeScript, Python
-- **Web3:** Solidity, Web3.js
+- **Front-End:** React, React Native, Expo  
+- **Back-End:** Node.js, Express, GraphQL  
+- **Databases:** MongoDB, Firebase, Supabase  
+- **Languages:** JavaScript, TypeScript, Python  
+- **Web3:** Solidity, Web3.js  
 
 I value **clean code, thoughtful architecture, and real-world impact**, and I collaborate effectively with cross-functional teams to ship reliable software from concept to deployment.
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shanekizito&show_icons=true&theme=github_dark&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=github_dark&hide_border=true"
-    height="160"
-  />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shanekizito&theme=darkhub&no-frame=true&row=1&column=6"
-  />
-</p>
 
 ---
 
