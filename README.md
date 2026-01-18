@@ -29,7 +29,7 @@ My background includes **full-stack development** with production experience in:
 - **Front-End:** React, React Native, Expo  
 - **Back-End:** Node.js, Express, GraphQL  
 - **Databases:** MongoDB, Firebase, Supabase  
-- **Languages:** JavaScript, TypeScript, Python  
+- **Languages:** JavaScript, TypeScript, Python ,Rust
 - **Web3:** Solidity, Web3.js  
 
 I value **clean code, thoughtful architecture, and real-world impact**, and I collaborate effectively with cross-functional teams to ship reliable software from concept to deployment.
