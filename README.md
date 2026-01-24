@@ -27,9 +27,9 @@ I am an experienced software engineer with a strong focus on **React** and **Rea
 My background includes **full-stack development** with production experience in:
 
 - **Front-End:** React, React Native, Expo  
-- **Back-End:** Node.js, Express , Django, GraphQL  
-- **Databases:** MongoDB, Firebase , Supabase  
-- **Languages:** JavaScript, TypeScript, Python ,Rust
+- **Back-End:** Node.js, Express, Django, GraphQL  
+- **Databases:** MongoDB, Firebase, Supabase  
+- **Languages:** JavaScript, TypeScript, Python, Rust  
 - **Web3:** Solidity, Web3.js  
 
 I value **clean code, thoughtful architecture, and real-world impact**, and I collaborate effectively with cross-functional teams to ship reliable software from concept to deployment.
@@ -45,9 +45,11 @@ I value **clean code, thoughtful architecture, and real-world impact**, and I co
 
 ### Back-End & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ### APIs, Cloud & Tooling
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
