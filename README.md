@@ -27,8 +27,8 @@ I am an experienced software engineer with a strong focus on **React** and **Rea
 My background includes **full-stack development** with production experience in:
 
 - **Front-End:** React, React Native, Expo  
-- **Back-End:** Node.js, Express, GraphQL  
-- **Databases:** MongoDB, Firebase, Supabase  
+- **Back-End:** Node.js, Express , Django, GraphQL  
+- **Databases:** MongoDB, Firebase , Supabase  
 - **Languages:** JavaScript, TypeScript, Python ,Rust
 - **Web3:** Solidity, Web3.js  
 
