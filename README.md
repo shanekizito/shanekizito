@@ -16,6 +16,8 @@
   <a href="https://github.com/shanekizito?tab=repositories">
     <img src="https://img.shields.io/github/stars/shanekizito?label=Stars&style=for-the-badge" />
   </a>
+  [![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/shanekizito)
+
 </p>
 
 ---
