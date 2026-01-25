@@ -17,6 +17,11 @@
     <img src="https://img.shields.io/github/stars/shanekizito?label=Stars&style=for-the-badge" />
   </a>
 </p>
+<a href="https://github.com/shanekizito/GitHub-Language-Stats">
+<img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
 
 ---
 
