@@ -43,7 +43,7 @@ My work spans:
 - frontend and mobile interfaces
 - backend services and APIs
 - data-driven and real-time systems
-- performance- and correctness-oriented codebases
+- performance and correctness-oriented codebases
 
 I’m comfortable reasoning about **architecture, tradeoffs, and failure modes**, not just shipping features.
 I care about how systems behave under load, change, and long-term evolution.
