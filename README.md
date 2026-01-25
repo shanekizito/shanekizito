@@ -36,7 +36,7 @@
 
 ## 👋 About Me
 
-I’m a senior-level software engineer with experience building **end-to-end systems** — from
+I’m a senior-level software engineer with experience building **end-to-end systems**  from
 user-facing applications to backend services and system-level tooling.
 
 My work spans:
