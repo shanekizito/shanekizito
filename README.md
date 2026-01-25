@@ -3,10 +3,11 @@
 <!-- ===================== -->
 
 <h1 align="center">Shane Kizito</h1>
-<h3 align="center">Senior Front-End & Full-Stack Software Engineer</h3>
+<h3 align="center">Software Engineer · Full-Stack · Systems-Oriented</h3>
 
 <p align="center">
-  I build scalable, high-performance web & mobile applications with clean architecture and user-first design.
+  I design and build <b>scalable, reliable software systems</b> across frontend, backend, and infrastructure —
+  with a strong emphasis on architecture, performance, and long-term maintainability.
 </p>
 
 <p align="center">
@@ -17,31 +18,56 @@
     <img src="https://img.shields.io/github/stars/shanekizito?label=Stars&style=for-the-badge" />
   </a>
 </p>
-<a href="https://github.com/shanekizito/GitHub-Language-Stats">
-<img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
 
+---
+
+## 📊 GitHub Stats & Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanekizito&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
 
 ---
 
 ## 👋 About Me
 
-I am an experienced software engineer with a strong focus on **React** and **React Native**, specializing in building **fast, intuitive, and scalable applications** across web and mobile platforms.
+I’m a senior-level software engineer with experience building **end-to-end systems** — from
+user-facing applications to backend services and system-level tooling.
 
-My background includes **full-stack development** with production experience in:
+My work spans:
+- frontend and mobile interfaces
+- backend services and APIs
+- data-driven and real-time systems
+- performance- and correctness-oriented codebases
 
-- **Front-End:** React, React Native, Expo  
-- **Back-End:** Node.js, Express, Django, GraphQL  
-- **Databases:** MongoDB, Firebase, Supabase  
-- **Languages:** JavaScript, TypeScript, Python, Rust  
-- **Web3:** Solidity, Web3.js  
-
-I value **clean code, thoughtful architecture, and real-world impact**, and I collaborate effectively with cross-functional teams to ship reliable software from concept to deployment.
+I’m comfortable reasoning about **architecture, tradeoffs, and failure modes**, not just shipping features.
+I care about how systems behave under load, change, and long-term evolution.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Build
+
+- Scalable backend services using **Node.js**, **Python**, and **Rust**
+- APIs (REST / GraphQL) and service integrations
+- Full-stack systems with React and React Native frontends
+- Mobile applications with Expo and native integrations
+- Web3-enabled platforms and smart contract integrations
+- Privacy-aware, modern SaaS and developer tools
+
+I optimize for **clarity, correctness, and sustainability**, not short-term hacks.
+
+---
+
+## 🛠️ Tech Stack (Production Experience)
 
 ### Front-End & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -68,6 +94,16 @@ I value **clean code, thoughtful architecture, and real-world impact**, and I co
 
 ---
 
+## 🧭 How I Think About Software
+
+- Prefer simple, explicit designs over clever abstractions
+- Optimize for correctness before premature optimization
+- Treat architecture as a living system, not a static diagram
+- Write code for humans first, machines second
+- Expect systems to evolve — and design accordingly
+
+---
+
 <p align="center">
-  <i>Open to impactful roles, ambitious startups, and high-caliber engineering teams.</i>
+  <i>Open to software engineering roles spanning backend, full-stack, and system-oriented teams.</i>
 </p>
