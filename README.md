@@ -21,11 +21,7 @@
 
 ---
 
-## 📊 GitHub Stats & Language Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanekizito&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+## 📊 Language Usage
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=transparent&hide_border=true" />
