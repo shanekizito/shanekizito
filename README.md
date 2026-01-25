@@ -2,7 +2,7 @@
 <!--  PROFILE HEADER       -->
 <!-- ===================== -->
 
-<h1 align="center">Shane Kizito</h1>
+<h1 align="center">Shane Young</h1>
 <h3 align="center">Software Engineer · Full-Stack · Systems-Oriented</h3>
 
 <p align="center">
