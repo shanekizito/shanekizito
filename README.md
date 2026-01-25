@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer · Full-Stack · Systems-Oriented</h3>
 
 <p align="center">
-  I design and build <b>scalable, reliable software systems</b> across frontend, backend, and infrastructure —
+  I design and build <b>scalable, reliable software systems</b> across frontend, backend, and infrastructure 
   with a strong emphasis on architecture, performance, and long-term maintainability.
 </p>
 
