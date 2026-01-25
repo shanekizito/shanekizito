@@ -96,7 +96,7 @@ I optimize for **clarity, correctness, and sustainability**, not short-term hack
 - Optimize for correctness before premature optimization
 - Treat architecture as a living system, not a static diagram
 - Write code for humans first, machines second
-- Expect systems to evolve — and design accordingly
+- Expect systems to evolve  and design accordingly
 
 ---
 
