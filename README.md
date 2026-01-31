@@ -27,10 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/shanekizito/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</p>
 
 ---
 
