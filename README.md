@@ -56,7 +56,7 @@ backend services that support real-world product needs.
 * Real-time, data-driven interfaces (maps, payments, chat, dashboards)
 * Consumer-facing products with strong UX, performance, and reliability requirements
 
-I optimize for **clarity, user experience, and long-term maintainability** — not just shipping features.
+I optimize for **clarity, user experience, and long-term maintainability**  not just shipping features.
 
 ---
 
