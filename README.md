@@ -34,7 +34,7 @@
 ## 👋 About Me
 
 I’m a senior frontend & mobile engineer focused on building **polished, scalable user-facing products**.
-I specialize in turning product ideas into fast, reliable applications that feel great to use — especially on mobile.
+I specialize in turning product ideas into fast, reliable applications that feel great to use especially on mobile.
 
 I’ve worked across startups and production systems, owning features end-to-end:
 
