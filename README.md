@@ -71,7 +71,9 @@ I optimize for **clarity, user experience, and long-term maintainability**  not 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
 ### Backend & Data (Supporting)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
