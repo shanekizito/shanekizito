@@ -1,23 +1,16 @@
-<!-- ===================== -->
-
-<!--  PROFILE HEADER       -->
-
-<!-- ===================== -->
-
-<h1 align="center">Shane Young</h1>
-<h3 align="center">Senior Frontend & Mobile Engineer · Product-Focused</h3>
+<h1 align="center">Samuel Adonai</h1>
+<h3 align="center">Lead Data Engineer · Big Data & ML Infrastructure</h3>
 
 <p align="center">
-  I build <b>high-quality mobile and web experiences</b> with a strong foundation in frontend architecture,
-  performance, and pragmatic backend integration.
+  I architect <b>high-volume Hadoop and Spark-driven data pipelines</b> with a strong foundation in automated CI/CD deployments and transitioning complex analytics models into resilient microservices.
 </p>
 
 <p align="center">
-  <a href="https://github.com/shanekizito">
-    <img src="https://img.shields.io/github/followers/shanekizito?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/xsamdonai">
+    <img src="https://img.shields.io/github/followers/xsamdonai?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/shanekizito?tab=repositories">
-    <img src="https://img.shields.io/github/stars/shanekizito?label=Stars&style=for-the-badge" />
+  <a href="https://github.com/xsamdonai?tab=repositories">
+    <img src="https://img.shields.io/github/stars/xsamdonai?label=Stars&style=for-the-badge" />
   </a>
 </p>
 
@@ -26,84 +19,86 @@
 ## 📊 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanekizito&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsamdonai&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a senior frontend & mobile engineer focused on building **polished, scalable user-facing products**.
-I specialize in turning product ideas into fast, reliable applications that feel great to use especially on mobile.
+I’m a Specialist Data Engineer with over 5 years of experience focused on building **high-volume data pipelines for financial and enterprise systems**.
 
-I’ve worked across startups and production systems, owning features end-to-end:
+I specialize in eliminating data bottlenecks and transitioning complex analytics models from research environments like Jupyter and Google Colab into production-grade microservices.
 
-* UI architecture and state management
-* mobile performance and platform-specific optimizations
-* API integration and backend coordination
-* CI/CD, deployment, and iteration at speed
+I’ve worked across **distributed enterprise environments**, owning data architecture end-to-end:
 
-While my strength is on the **frontend and mobile side**, I’m comfortable designing and integrating
-backend services that support real-world product needs.
+* distributed data retrieval, storage pipelines, and real-time reconciliation
+* automated CI/CD deployments and self-service analytics infrastructure
+* managing collaborative Google Colab workflows to standardize model training
+* enterprise risk, disaster recovery, and governance standards
+
+While my strength is on the **data engineering and infrastructure side**, I’m comfortable designing centralized Jupyter Notebook environments that provide secure access to transaction data for business squads.
 
 ---
 
 ## 🧠 What I Build
 
-* Mobile apps with **React Native, Expo, and native integrations**
-* Frontend-heavy web applications using **React and modern UI systems**
-* Product-oriented APIs and backend services (Node.js, Firebase, Supabase)
-* Real-time, data-driven interfaces (maps, payments, chat, dashboards)
-* Consumer-facing products with strong UX, performance, and reliability requirements
+* Distributed processing pipelines using **Hadoop (HDFS) and PySpark**
+* Scalable AWS Lake Formation and Apache Spark ETL frameworks
+* Automated Python/SQL data tools and collaborative Google Colab workflows
+* Systems that convert raw Jupyter and Google Colab analytics notebooks into deployable Python services
+* Real-time monitoring systems for data anomalies and statistical drift detection (PSI, KS statistics)
 
-I optimize for **clarity, user experience, and long-term maintainability**  not just shipping features.
+I optimize for **99.9% uptime, zero data corruption, and strictly adhering to enterprise risk frameworks** not just building pipelines.
 
 ---
 
 ## 🛠️ Tech Stack (Production Experience)
 
-### Frontend & Mobile (Primary)
+### Big Data & Cloud (Primary)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge\&logo=expo)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge\&logo=apachehadoop)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apachekafka)
 
-### Backend & Data (Supporting)
+### Data Science & Research Environments (Advanced)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab)
+
+### Languages & Development
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash)
+
+### Databases & Integration
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![NoSQL](https://img.shields.io/badge/NoSQL-3F3E42?style=for-the-badge)
 
-### APIs, Cloud & Tooling
+### CI/CD, Automation & Orchestration
 
-![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-
-### Advanced & Integrations
-
-![Payments](https://img.shields.io/badge/Payments-Stripe%20%7C%20M--PESA-6772E5?style=for-the-badge)
-![Maps](https://img.shields.io/badge/Maps-Google%20Maps-4285F4?style=for-the-badge\&logo=google-maps)
-![Web3](https://img.shields.io/badge/Web3-Web3.js%20%7C%20Solidity-363636?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apache-airflow)
 
 ---
 
-## 🧭 How I Think About Building Products
+## 🧭 How I Think About Data Infrastructure
 
-* UX and performance are first-class engineering concerns
-* Prefer simple, explicit frontend architectures over clever abstractions
-* Design mobile-first, then scale to web
-* Backend exists to empower the frontend — not fight it
-* Build systems that evolve gracefully over time
+* Uptime, governance, and disaster recovery are first-class engineering concerns
+* Experimental code originally prototyped in Google Colab must be transitioned smoothly into resilient microservices
+* Build systems that actively prevent silent data corruption through rigorous automated QA
+* Self-service infrastructures empower teams to build and deploy faster
 
 ---
 
 <p align="center">
-  <i>Open to senior frontend and mobile engineering roles, especially product-driven teams building real user experiences.</i>
+  <i>Open to Lead Data Engineer and Senior Data Infrastructure roles, especially teams focusing on enterprise-scale ML infrastructures.</i>
 </p>
